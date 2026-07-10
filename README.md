@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NamanJainnnn/Leetcode/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/NamanJainnnn/Leetcode/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/NamanJainnnn/Leetcode/tree/master/0055-jump-game) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/NamanJainnnn/Leetcode/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/NamanJainnnn/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
