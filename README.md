@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NamanJainnnn/Leetcode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NamanJainnnn/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NamanJainnnn/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
