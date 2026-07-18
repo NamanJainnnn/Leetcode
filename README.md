@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/NamanJainnnn/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/NamanJainnnn/Leetcode/tree/master/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NamanJainnnn/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/NamanJainnnn/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/NamanJainnnn/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NamanJainnnn/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/NamanJainnnn/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
