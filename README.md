@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/NamanJainnnn/Leetcode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/NamanJainnnn/Leetcode/tree/master/0567-permutation-in-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/NamanJainnnn/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/NamanJainnnn/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NamanJainnnn/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NamanJainnnn/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
