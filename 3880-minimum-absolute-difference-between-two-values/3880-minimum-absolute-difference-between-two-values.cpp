@@ -4,14 +4,14 @@ public:
         int ans=INT_MAX;
         int n= nums.size();
 
-        unordered_map<int,int>freq;
+        /*unordered_map<int,int>freq;
         for(int num : nums){
             freq[num]++;
         }
 
         if(freq[2]==0 || freq[1]==0){
             return -1;
-        }
+        }*/
         for(int i =0;i<n;i++){
             if(nums[i]==1){
                 for(int j =0;j<n;j++){
@@ -24,6 +24,9 @@ public:
             }else{
                 continue;
             }
+        }
+        if(ans==INT_MAX){
+            return -1;
         }
      return ans;
     }
