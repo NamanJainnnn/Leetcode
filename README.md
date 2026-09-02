@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/NamanJainnnn/Leetcode/tree/master/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NamanJainnnn/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0500-keyboard-row](https://github.com/NamanJainnnn/Leetcode/tree/master/0500-keyboard-row) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NamanJainnnn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/NamanJainnnn/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/NamanJainnnn/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NamanJainnnn/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NamanJainnnn/Leetcode/tree/master/0015-3sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NamanJainnnn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/NamanJainnnn/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NamanJainnnn/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NamanJainnnn/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/NamanJainnnn/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NamanJainnnn/Leetcode/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NamanJainnnn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/NamanJainnnn/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/NamanJainnnn/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
