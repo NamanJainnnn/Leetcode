@@ -1,21 +1,18 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        stack<char>st;
-        int maxi =0;
-        vector<int>ans;
-
-        for(auto c:s){
-            if(c =='('){
-                maxi++;     
+        int current_depth = 0;
+        int max_depth = 0;
+        
+        for (char c : s) {
+            if (c == '(') {
+                current_depth++;
+                max_depth = max(max_depth, current_depth);
+            } else if (c == ')') {
+                current_depth--;
             }
-            if(c == ')'){
-                maxi--;
-            }
-            ans.push_back(maxi); 
         }
-        maxi = *max_element(ans.begin(),ans.end());
-
-        return maxi;
+        
+        return max_depth;
     }
 };
