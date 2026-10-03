@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NamanJainnnn/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/NamanJainnnn/Leetcode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/NamanJainnnn/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/NamanJainnnn/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/NamanJainnnn/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/NamanJainnnn/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NamanJainnnn/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/NamanJainnnn/Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/NamanJainnnn/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/NamanJainnnn/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/NamanJainnnn/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/NamanJainnnn/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NamanJainnnn/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/NamanJainnnn/Leetcode/tree/master/0500-keyboard-row) |
