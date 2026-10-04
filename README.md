@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NamanJainnnn/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NamanJainnnn/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/NamanJainnnn/Leetcode/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/NamanJainnnn/Leetcode/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanJainnnn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/NamanJainnnn/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/NamanJainnnn/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
