@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/NamanJainnnn/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NamanJainnnn/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/NamanJainnnn/Leetcode/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/NamanJainnnn/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
