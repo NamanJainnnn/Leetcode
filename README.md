@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/NamanJainnnn/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/NamanJainnnn/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [4006-count-valid-prefixes](https://github.com/NamanJainnnn/Leetcode/tree/master/4006-count-valid-prefixes) |
 ## Binary Search
 |  |
