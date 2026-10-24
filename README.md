@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NamanJainnnn/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NamanJainnnn/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/NamanJainnnn/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2409-count-days-spent-together](https://github.com/NamanJainnnn/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/NamanJainnnn/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NamanJainnnn/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/NamanJainnnn/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/NamanJainnnn/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NamanJainnnn/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/NamanJainnnn/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/NamanJainnnn/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
