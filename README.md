@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NamanJainnnn/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/NamanJainnnn/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2409-count-days-spent-together](https://github.com/NamanJainnnn/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2490-circular-sentence](https://github.com/NamanJainnnn/Leetcode/tree/master/2490-circular-sentence) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/NamanJainnnn/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NamanJainnnn/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
