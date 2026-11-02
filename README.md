@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/NamanJainnnn/Leetcode/tree/master/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NamanJainnnn/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/NamanJainnnn/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/NamanJainnnn/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NamanJainnnn/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0500-keyboard-row](https://github.com/NamanJainnnn/Leetcode/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanJainnnn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NamanJainnnn/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/NamanJainnnn/Leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/NamanJainnnn/Leetcode/tree/master/0263-ugly-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/NamanJainnnn/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NamanJainnnn/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanJainnnn/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/NamanJainnnn/Leetcode/tree/master/0836-rectangle-overlap) |
