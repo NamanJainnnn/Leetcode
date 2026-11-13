@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NamanJainnnn/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/NamanJainnnn/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2409-count-days-spent-together](https://github.com/NamanJainnnn/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2437-number-of-valid-clock-times](https://github.com/NamanJainnnn/Leetcode/tree/master/2437-number-of-valid-clock-times) |
 | [2490-circular-sentence](https://github.com/NamanJainnnn/Leetcode/tree/master/2490-circular-sentence) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/NamanJainnnn/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2437-number-of-valid-clock-times](https://github.com/NamanJainnnn/Leetcode/tree/master/2437-number-of-valid-clock-times) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NamanJainnnn/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
