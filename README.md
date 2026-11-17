@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/NamanJainnnn/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NamanJainnnn/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NamanJainnnn/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3606-coupon-code-validator](https://github.com/NamanJainnnn/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NamanJainnnn/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NamanJainnnn/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NamanJainnnn/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NamanJainnnn/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NamanJainnnn/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3606-coupon-code-validator](https://github.com/NamanJainnnn/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NamanJainnnn/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/NamanJainnnn/Leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/NamanJainnnn/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3606-coupon-code-validator](https://github.com/NamanJainnnn/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/NamanJainnnn/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [4006-count-valid-prefixes](https://github.com/NamanJainnnn/Leetcode/tree/master/4006-count-valid-prefixes) |
 ## Binary Search
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/NamanJainnnn/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NamanJainnnn/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3606-coupon-code-validator](https://github.com/NamanJainnnn/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NamanJainnnn/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/NamanJainnnn/Leetcode/tree/master/3731-find-missing-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/NamanJainnnn/Leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
