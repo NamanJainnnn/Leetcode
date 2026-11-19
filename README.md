@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NamanJainnnn/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NamanJainnnn/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NamanJainnnn/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NamanJainnnn/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/NamanJainnnn/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NamanJainnnn/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NamanJainnnn/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/NamanJainnnn/Leetcode/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NamanJainnnn/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NamanJainnnn/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NamanJainnnn/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/NamanJainnnn/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NamanJainnnn/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NamanJainnnn/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NamanJainnnn/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NamanJainnnn/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NamanJainnnn/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NamanJainnnn/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
