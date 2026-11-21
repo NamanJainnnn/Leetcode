@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/NamanJainnnn/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NamanJainnnn/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/NamanJainnnn/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2928-distribute-candies-among-children-i](https://github.com/NamanJainnnn/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/NamanJainnnn/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2437-number-of-valid-clock-times](https://github.com/NamanJainnnn/Leetcode/tree/master/2437-number-of-valid-clock-times) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NamanJainnnn/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2928-distribute-candies-among-children-i](https://github.com/NamanJainnnn/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NamanJainnnn/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NamanJainnnn/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NamanJainnnn/Leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/NamanJainnnn/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
